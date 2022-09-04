@@ -33,7 +33,7 @@ buttonElement.onclick = ev => {
                     break
                 }
             }
-            if(primo == true && value > 0){ 
+            if(primo == true && value > 1){ 
                 textElement.innerHTML = inputElement.value + " È um primo uhuuul!" ;
             }
             else{
