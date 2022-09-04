@@ -34,7 +34,7 @@ buttonElement.onclick = ev => {
                 }
             }
             if(primo == true && value > 1){ 
-                textElement.innerHTML = inputElement.value + " È um primo uhuuul!" ;
+                textElement.innerHTML = inputElement.value + " É um primo uhuuul!" ;
             }
             else{
                 textElement.innerHTML = inputElement.value + " Não é primo! que triste :("
